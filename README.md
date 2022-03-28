@@ -14,10 +14,11 @@ Este material se comparte bajo la licencia [Creative Commons Attribution-ShareAl
 
 ### Citar como
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5668300.svg)](https://doi.org/10.5281/zenodo.5668300)
+![DOI](https://zenodo.org/badge/475033325.svg)
 
 No, Irma Noemí. (2021, Noviembre) Localización de una Planta de bioetanol. Análisis ML -SIG R, según destino en Argentina v.1. 
-Zenodo. https://doi.org/10.5281/zenodo.5668300
+
+Zenodo. https://doi.org/10.5281/zenodo.6390802
 
 ### Recurso: 
 https://www.clasesvirtuales.org/Ejemplo_ML_mapas_clientes_Bioetanol.html
